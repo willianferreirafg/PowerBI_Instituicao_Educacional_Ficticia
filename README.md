@@ -25,7 +25,7 @@ A instituição fictícia utilizada como base representa uma universidade de mé
 
 Você pode visualizar o dashboard completo publicado na web pelo link abaixo:
 
-👉 [**Clique aqui para visualizar no Power BI Service**](---)
+👉 [**Clique aqui para visualizar no Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiZWQ3YjYzOGQtNzZkOS00YmI3LTg4YzUtMDMxODYxYWNkZTE2IiwidCI6IjY3MDk0NmQzLTFiYzAtNDA4MS04ZTQ5LTBiNmRmZTEyOTVkZSJ9)
 
 ## 📁 Organização do Repositório
 
