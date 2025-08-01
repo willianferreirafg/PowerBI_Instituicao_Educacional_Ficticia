@@ -21,6 +21,12 @@ Neste projeto, fui responsável por todas as etapas do desenvolvimento:
 
 A instituição fictícia utilizada como base representa uma universidade de médio porte. Os dashboards foram desenvolvidos para atender às áreas acadêmica, administrativa e financeira, possibilitando uma visão estratégica por parte da gestão.
 
+## 🌐 Acesse o dashboard online
+
+Você pode visualizar o dashboard completo publicado na web pelo link abaixo:
+
+👉 [**Clique aqui para visualizar no Power BI Service**](---)
+
 ## 📁 Organização do Repositório
 
 ```text
