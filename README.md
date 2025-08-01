@@ -32,6 +32,6 @@ Você pode visualizar o dashboard completo publicado na web pelo link abaixo:
 ```text
 ├── Backgrounds/                 # Imagens dos designs dashboards em .svg
 ├── Documentacoes/               # Documentos do projeto (PDF, Word, etc.)
-├── Queries/                     # Scripts SQL utilizados para criação/importação dos dados
 ├── PBIX                         # Arquivo final do Power BI
+├── Queries/                     # Scripts SQL utilizados para criação/importação dos dados
 ├── README.md                    # Este arquivo
