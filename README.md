@@ -1,6 +1,6 @@
 # Projeto Power BI – Instituição Educacional Fictícia
 
-Este é o meu primeiro projeto completo utilizando o Power BI, desenvolvido de ponta a ponta para uma instituição de ensino superior fictícia. O objetivo foi simular um ambiente real de Business Intelligence, aplicando boas práticas de documentação, modelagem de dados, visualização e design.
+Este é o meu primeiro projeto completo utilizando o Power BI, desenvolvido de ponta a ponta como se fosse para uma instituição de ensino superior fictícia. O objetivo foi simular um ambiente real de Business Intelligence, aplicando boas práticas de documentação, modelagem de dados, visualização e design.
 
 ## Escopo do Projeto
 
